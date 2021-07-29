@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KinglyMinecon
+- 👀 I’m interested in Maths, Coding and Technology
+- 🌱 I’m currently learning how to code javascript
+- 📫 You can send me an emsil on kinglymineconyt@gmail.com
